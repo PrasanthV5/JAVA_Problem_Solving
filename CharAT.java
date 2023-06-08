@@ -15,6 +15,8 @@ public class CharAT {
 		System.out.println(s2.indexOf('m'));
 		
 		System.out.println(s3.indexOf('u'));
+		
+		System.out.println(s3.indexOf('l'));
 
 	}
 
